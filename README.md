@@ -81,4 +81,3 @@ The notebook needs an internet connection because `yfinance` downloads the price
 
 The risk-free rate of 4% is assumed, and the volatility is historical rather than implied from market option prices, so the prices are not meant to match real AAPL options. The model ignores dividends. The barrier and Asian options are monitored at daily steps only.
 
-This was written by AI for learning practice.
